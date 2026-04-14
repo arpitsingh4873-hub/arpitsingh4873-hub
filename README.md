@@ -1,3 +1,5 @@
+## Hi there! 👋
+
 # 💫 About Me:
 I'm currently studying Bachelor of technology from AKGEC Ghaziabad in IT branch<br>Looking for hands-on projects, internships, or coding challenges where learning, contribution, and applying skills simultaneously are possible.<br>Strong self-directed learner in Data Structures & Algorithms, Python and Machine Learning/AI.
 
